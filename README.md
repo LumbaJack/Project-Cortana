@@ -17,13 +17,13 @@ In order to use this robot you have the following:
 
 ## Usage
 
-1.) Build the code with visual studio, and produce an executable.
-2.) Place the DLL in the same directory as your exe and run it.
-3.) You will be prompt with a waiting message. Plug the titan one into the xbox.
-4.) Then plug the micro usb cable into the titan one and the xbox one controller.
-5.) After you do that start a game of warzone assualt.
-6.) After getting into the search for a game plug the mini usb cable into the titan one and the computer/laptop.
-7.) Thats it just let it run now.
+1. Build the code with visual studio, and produce an executable.
+2. Place the DLL in the same directory as your exe and run it.
+3. You will be prompt with a waiting message. Plug the titan one into the xbox.
+4. Then plug the micro usb cable into the titan one and the xbox one controller.
+5. After you do that start a game of warzone assualt.
+6. After getting into the search for a game plug the mini usb cable into the titan one and the computer/laptop.
+7. Thats it just let it run now.
 
 ## Contributing
 
