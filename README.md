@@ -1,14 +1,15 @@
 # Project Name
 
-TODO: Write a project description
+Project Cortana
 
 ## Installation
 
-TODO: Describe the installation process
+No special installation required simply checkout code and build to produce the executable.
 
 ## Usage
 
-TODO: Write usage instructions
+Build the code with visual studio, and produce an executable.
+Place the DLL in the same directory as your exe and run it.
 
 ## Contributing
 
@@ -20,12 +21,13 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+12/10/2015: Initial Commit
 
 ## Credits
 
-TODO: Write credits
+Credits go to Cortana from halo as the inspiration to this bot.
+A robot "AI" helps master chief get what he want and so does this bot :).
 
 ## License
 
-TODO: Write license
+None
