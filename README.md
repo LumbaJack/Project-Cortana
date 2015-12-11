@@ -43,7 +43,7 @@ In order to use this robot you have the following:
 
 ## Credits
 
-Credits go to 343 for making it so easy to do this.
+Credits go to 343 for making it so easy to do this. Hopefully they patch this so that the game becomes more enjoyable.
 
 ## License
 
