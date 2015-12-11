@@ -4,7 +4,7 @@ Project Cortana
 
 ## Description
 
-This bot utilizes a bad implementation of Halo 5 req's system. Since Halo 5 gives a similar amount of req points to the best and worst players in a arena/warzone game you can achieve a lot of req points for just been inactive. Halo 5 has a static 3 minute timer for checking for inactive players. So to get around that all you have to do is move/press something on the remote to stay in the game.
+This bot utilizes the bad implementation of Halo 5 req's system. Since Halo 5 gives a similar amount of req points to the best and worst players in a arena/warzone game you can achieve a lot of req points for just been inactive. Halo 5 has a static 3 minute timer for checking for inactive players. So to get around that all you have to do is move/press something on the remote to stay in the game.
 
 ## Installation
 
