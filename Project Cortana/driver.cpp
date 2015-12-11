@@ -157,6 +157,10 @@ int main(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nSho
 				std::cout << "Titan One is now connected." << std::endl;
 			}
 
+			// uncomment any properties you wish to include into your movements
+			// currently only gets down and gets back into the game since halo 5 fails to keep you in the game queue
+			// this bot tries to bring you back into the game from when halo removes you from the playlist
+
 			/*int choice = rand() % (4 - 0 + 1) + 0;
 
 			if (choice == 1){
