@@ -25,7 +25,7 @@ Place the DLL in the same directory as your exe and run it.
 
 ## Credits
 
-Credits go to Cortana from halo as the inspiration to this bot.
+Credits go to Cortana from halo as the inspiration to this bot.\n
 A robot "AI" helps master chief get what he want and so does this bot :).
 
 ## License
