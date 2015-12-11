@@ -49,4 +49,4 @@ Credits go to 343 for making it so easy to do this.
 
 None
 
-Bungie we miss ~ Everyone
+## Bungie was better ~ Everyone
