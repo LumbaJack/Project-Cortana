@@ -43,8 +43,10 @@ In order to use this robot you have the following:
 
 ## Credits
 
-Credits go to Cortana from halo as the inspiration to this bot.
+Credits go to 343 for making it so easy to do this.
 
 ## License
 
 None
+
+Bungie we miss ~ Everyone
